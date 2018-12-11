@@ -1,0 +1,7 @@
+c:\users\joshua\source\repos\MBR_Stuff\MBR_Stuff\bin\Debug\MBR_Stuff.exe.config
+c:\users\joshua\source\repos\MBR_Stuff\MBR_Stuff\bin\Debug\MBR_Stuff.exe
+c:\users\joshua\source\repos\MBR_Stuff\MBR_Stuff\bin\Debug\MBR_Stuff.pdb
+c:\users\joshua\source\repos\MBR_Stuff\MBR_Stuff\obj\Debug\MBR_Stuff.csprojAssemblyReference.cache
+c:\users\joshua\source\repos\MBR_Stuff\MBR_Stuff\obj\Debug\MBR_Stuff.csproj.CoreCompileInputs.cache
+c:\users\joshua\source\repos\MBR_Stuff\MBR_Stuff\obj\Debug\MBR_Stuff.exe
+c:\users\joshua\source\repos\MBR_Stuff\MBR_Stuff\obj\Debug\MBR_Stuff.pdb
